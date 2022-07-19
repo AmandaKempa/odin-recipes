@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(224, 17, 17);
+    background-color: rgb(75, 237, 75);  
+    font-family: tahoma;
+    font-size: 60px;
+    text-align: center;  
+}
+
+.recipe {
+    color:hotpink;
+    background-color: yellow;
+    font-size: 36px;
+
+}
+
+.pesto {
+    color: blue;
+    background-color: orange;
+    font-size: 42px;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.verdana {
+    font-family: verdana;
+}
+
+
